@@ -1,12 +1,17 @@
 # Speechly Expense Tracker
 
-![Expense Tracker](speechly_expense_tracker_project\src\assets\ExpenseTracker.png)
+## Application Snapshots
 
-![Main Component](speechly_expense_tracker_project\src\assets\MainComponent.png)
+![Expense Tracker](https://github.com/ShristiiSharma/Voice_Powered_Expense_Tracker/blob/main/src/assets/ExpenseTracker.png)
 
-![Income Detail Component](speechly_expense_tracker_project\src\assets\IncomeDetailComponent.png)
+### Main Component
+![Main Component](https://github.com/ShristiiSharma/Voice_Powered_Expense_Tracker/blob/main/src/assets/MainComponent.png)
 
-![Expense Detail Component](speechly_expense_tracker_project\src\assets\ExpenseDetailComponent.png)
+### Income Detail Component
+![Income Detail Component](https://github.com/ShristiiSharma/Voice_Powered_Expense_Tracker/blob/main/src/assets/IncomeDetailComponent.png)
+
+### Expense Detail Component
+![Expense Detail Component](https://github.com/ShristiiSharma/Voice_Powered_Expense_Tracker/blob/main/src/assets/ExpenseDetailComponent.png)
 
 
 ## Introduction
