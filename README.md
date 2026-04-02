@@ -1,4 +1,4 @@
-# Speechly Expense Tracker
+# Voice Powered Finance Tracker
 
 ## Application Snapshots
 
