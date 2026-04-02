@@ -1,8 +1,8 @@
 //new changes
-import React, { useEffect, useRef } from 'react';
+import React, { useRef } from 'react';
 import { Grid } from '@material-ui/core';
 
-import { SpeechState, useSpeechContext } from "@speechly/react-client";
+//import { SpeechState, useSpeechContext } from "@speechly/react-client";
 //import { PushToTalkButton, PushToTalkButtonContainer } from '@speechly/react-ui';
 
 import { Details, Main } from './components';
@@ -10,16 +10,16 @@ import useStyles from './styles';
 
 const App = () => {
   const classes = useStyles();
-  const { speechState } = useSpeechContext();
+  //const { speechState } = useSpeechContext();
   const main = useRef(null)
 
-  const executeScroll = () => main.current.scrollIntoView()    
+  //const executeScroll = () => main.current.scrollIntoView()    
 
-  useEffect(() => {
-    if (speechState === SpeechState.Recording) {
-      executeScroll();
-    }
-  }, [speechState]);
+  // useEffect(() => {
+  //   if (speechState === SpeechState.Recording) {
+  //     executeScroll();
+  //   }
+  // }, [speechState]);
 
   return (
     <div>
